@@ -83,7 +83,6 @@ body {
 /* ========== Hero-section styles ========== */
 .hero {
     background-color: #2e2f42;
-    height: 600px;
 }
 
 .hero-button {
@@ -92,6 +91,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    color: #ffffff;
 }
 
 .hero-button:hover,
@@ -101,10 +101,10 @@ body {
 
 .hero-title {
     font-size: 56px;
-    line-height: 1.1;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 /* ========== Skills-section styles ========== */
@@ -133,6 +133,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    color: #2e2f42;
 }
 
 .our-team-list {
@@ -162,6 +163,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    color: #2e2f42;
 }
 
 .portfolio-item-title {
